@@ -38,29 +38,29 @@ you from absolute beginner to proficient coder in various programming
 languages and technologies.
 
 -   [Learn to Code: Python for Absolute
-    Beginners](https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners):]
+    Beginners](https://www.educative.io/courses/learn-to-code-python-for-absolute-beginners):
     Start your coding journey with Python, a versatile and
     beginner-friendly language.
 
 -   [Learn to Code: C++ for Absolute
-    Beginners](https://www.educative.io/courses/learn-to-code-cpp-for-absolute-beginners):]
+    Beginners](https://www.educative.io/courses/learn-to-code-cpp-for-absolute-beginners):
     Dive into C++, known for its performance and control over system
     resources
 
 -   [Learn to Code: C# for Absolute
-    Beginners](https://www.educative.io/courses/learn-to-code-c-sharp-for-absolute-beginners):]
+    Beginners](https://www.educative.io/courses/learn-to-code-c-sharp-for-absolute-beginners):
     Learn C#, a popular language for developing Windows applications.
 
 -   [Learn to Code: Java for Absolute
-    Beginners](https://www.educative.io/courses/learn-to-code-java-for-absolute-beginners):]
+    Beginners](https://www.educative.io/courses/learn-to-code-java-for-absolute-beginners):
     Get started with Java, a widely-used language in various domains.
 
 -   [Learn to Code: JavaScript for Absolute
-    Beginners](https://www.educative.io/courses/learn-to-code-javascript-for-absolute-beginners):]
+    Beginners](https://www.educative.io/courses/learn-to-code-javascript-for-absolute-beginners):
     Begin coding with JavaScript, essential for web development.
 
 -   [Learn to Code: Ruby for Absolute
-    Beginners](https://www.educative.io/courses/learn-to-code-ruby-for-absolute-beginners):]
+    Beginners](https://www.educative.io/courses/learn-to-code-ruby-for-absolute-beginners):
     Explore Ruby, a language known for its simplicity and productivity.
 
 -   [Programming in
