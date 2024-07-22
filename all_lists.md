@@ -84,7 +84,8 @@ languages and technologies.
     Build a solid foundation in Java programming.
 
 -   [Learn
-    Java](https://www.codechef.com/learn/course/java)
+    Java](https://www.codechef.com/learn/course/java):
+    Learn Java programming with problems solving.
 
 -   [A Complete Guide to Java
     Programming](https://www.educative.io/courses/complete-guide-to-java-programming):
